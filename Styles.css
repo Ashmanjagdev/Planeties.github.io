@@ -1,0 +1,163 @@
+body{
+  background-color:#0b0b0b;
+  padding: 0;
+  margin: 0;
+  border: 0;
+}
+h1{
+  font-family: 'Sacramento',cursive;
+  color: #daa520;
+  margin-bottom: 50px;
+}
+h2{
+  float: left;
+  margin-left: 100px;
+  margin-right: 500px;
+  font-family: 'Sacramento', cursive;
+  font-size: 30px;
+  color: white;
+}
+hr{
+  width:4.5%;
+  border-style: dotted none none;
+  border-width: 6px;
+  height:10px;
+  color: 	#ffe4b5;
+}
+p{
+  color: #efdab9;
+  line-height: 30px;
+}
+.learn-button {
+    display: inline-block;
+    padding: 0.5em 1em;
+    line-height: inherit;
+    font-size: inherit;
+    font-weight: 545;
+    text-decoration: none;
+    border-radius: 5px;
+    color: #343233;
+    background-color: #ffd152;
+    margin-top: 35px;
+
+}
+.learn-button:hover {
+  background-color: white;
+  color:black;
+}
+div{
+  overflow:auto;
+  margin:100px 60px 110px 100px;
+  width:85%;
+}
+.so{
+  width:93%;
+  margin-top: 50px;
+}
+.solar{
+  float:right;
+  height:550px;
+
+}
+.sun{
+  float:left;
+  width:35%;
+  margin-right:100px;
+}
+.jupiter{
+  float:right;
+  width: 600px;
+  height:600px;
+
+  margin-left:100px;
+}
+.saturn{
+  float:left;
+  height:230px;
+ width:500px;
+  margin-right:40px;
+}
+.uranus{
+  float:right;
+  width: 400px;
+  height:400px;
+
+  margin-left:120px;
+}
+.neptune{
+  float:left;
+  width: 400px;
+  height:400px;
+
+  margin-right:100px;
+}
+.earth{
+  float:right;
+  width: 400px;
+  height:400px;
+
+  margin-left:120px;
+}
+.venus{
+  float:left;
+  height:300px;
+}
+.mars{
+  float:right;
+  width: 400px;
+  height:400px;
+
+  margin-left:130px;
+}
+.mercury{
+  float:left;
+  width: 400px;
+  height:400px;
+
+  margin-right:120px;
+}
+.footer{
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  width:100%;
+ background-color:#FFEFD5;
+ color: white;
+ text-align: center;
+ padding-top: 30px;
+ padding-bottom: 15px
+}
+a{
+  color:black;
+  font-family:'Montserrat',sans-serif;
+  margin-left:20px;
+  text-decoration: none;
+  font-weight: 700;
+}
+a:hover {
+  color:red;
+}
+.nav{
+  background-color: #0b0b0b;
+  width:100%;
+  margin:0;
+  height:67px;
+  text-align: center;
+}
+.high{
+  color:white;
+}
+.high:hover{
+  color:red;
+}
+.Moon
+{
+  float:right;
+  width:350px;
+  height:550px;
+  margin-left: 150px;
+}
+iframe{
+  display: block;
+  margin: 0 auto;
+}
